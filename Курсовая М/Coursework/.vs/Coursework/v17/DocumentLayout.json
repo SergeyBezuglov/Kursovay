@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\coursework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|solutionrelative:coursework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\controls\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|solutionrelative:controls\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\controls\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|solutionrelative:controls\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\controls\\plotitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|solutionrelative:controls\\plotitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\coursework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|solutionrelative:coursework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|solutionrelative:coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\controls\\plot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|solutionrelative:controls\\plot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\coursework\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|solutionrelative:coursework\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\coursework\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1F1C04C4-E8F9-4174-8F21-5D16D23A2562}|Coursework\\Coursework.csproj|solutionrelative:coursework\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|c:\\users\\bezuglov\\downloads\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u043C\\coursework\\controls\\plot.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{86F42F25-823A-4592-B275-C05ED26C95C9}|Controls\\Controls.csproj|solutionrelative:controls\\plot.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plot.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.cs",
+              "RelativeDocumentMoniker": "Controls\\Plot.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.cs",
+              "RelativeToolTip": "Controls\\Plot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:20:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plot.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.cs",
+              "RelativeDocumentMoniker": "Controls\\Plot.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Controls\\Plot.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:20:23.498Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.resx",
+              "RelativeDocumentMoniker": "Coursework\\Form1.resx",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.resx",
+              "RelativeToolTip": "Coursework\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-18T07:13:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Coursework\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.Designer.cs",
+              "RelativeToolTip": "Coursework\\Form1.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Program.cs",
+              "RelativeDocumentMoniker": "Coursework\\Program.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Program.cs",
+              "RelativeToolTip": "Coursework\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlotItem.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\PlotItem.cs",
+              "RelativeDocumentMoniker": "Controls\\PlotItem.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\PlotItem.cs",
+              "RelativeToolTip": "Controls\\PlotItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:22.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.cs",
+              "RelativeDocumentMoniker": "Coursework\\Form1.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.cs",
+              "RelativeToolTip": "Coursework\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:12:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Plot.resx",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.resx",
+              "RelativeDocumentMoniker": "Controls\\Plot.resx",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.resx",
+              "RelativeToolTip": "Controls\\Plot.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-18T07:12:41.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plot.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.Designer.cs",
+              "RelativeDocumentMoniker": "Controls\\Plot.Designer.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Controls\\Plot.Designer.cs",
+              "RelativeToolTip": "Controls\\Plot.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:12:37.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.cs",
+              "RelativeDocumentMoniker": "Coursework\\Form1.cs",
+              "ToolTip": "C:\\Users\\bezuglov\\Downloads\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u041C\\Coursework\\Coursework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Coursework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:10:05.694Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

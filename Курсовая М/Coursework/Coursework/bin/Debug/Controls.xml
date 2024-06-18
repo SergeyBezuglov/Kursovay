@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Controls</name>
+    </assembly>
+    <members>
+        <member name="T:OstapenkoAE.Controls.Plot">
+            <summary>
+            Элемент управления, предназначенный для отображения графиков.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.CenterPoint">
+            <summary>
+            Возвращает либо задает центр мировых координат
+            на плоскости контрола.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.MinPix">
+            <summary>
+            Возвращает либо задает длину стороны квадрата
+            в пикселях, перемещение курсора внутри которого
+            будет считаться точечным действием.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.ScaleX">
+            <summary>
+            Возвращает либо задает коэффициент масштабирования
+            по оси X (задает число пикселей, соответствующее
+            единице измерения вдоль оси).
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.XName">
+            <summary>
+            Возвращает либо задает название величины,
+            откладываемой по оси X.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.XUnits">
+            <summary>
+            Возвращает либо задает название единицы измерения
+            по оси X.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.ScaleY">
+            <summary>
+            Возвращает либо задает коэффициент масштабирования
+            по оси Y (задает число пикселей, соответствующее
+            единице измерения вдоль оси).
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.YName">
+            <summary>
+            Возвращает либо задает название величины,
+            откладываемой по оси Y.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.Plot.YUnits">
+            <summary>
+            Возвращает либо задает название единицы измерения
+            по оси Y.
+            </summary>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.Draw">
+            <summary>
+            Рисует графики.
+            </summary>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.DrawAxes(System.Drawing.Graphics)">
+            <summary>
+            Рисует оси координат.
+            </summary>
+            <param name="Graphics">Холст.</param>
+            <param name="Pen">Кисть.</param>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.UpdateItem(System.String,System.Drawing.Color,System.Func{System.Double,System.Double})">
+            <summary>
+            Обновляет информацию о графике с указанным названием.
+            Если графика с таким названием нет, то он будет создан.
+            </summary>
+            <param name="Legend">Название графика.</param>
+            <param name="LineColor">Цвет графика.</param>
+            <param name="Func">Функция y(x).</param>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.DrawFunctionFromX(System.Drawing.Graphics,System.Drawing.Pen,System.Func{System.Double,System.Double})">
+            <summary>
+            Рисует график указанной функции y(x).
+            </summary> 
+            <param name="Graphics">Холст.</param>
+            <param name="Pen">Кисть.</param>
+            <param name="Function">Функция, график которой нужно
+            построить.</param>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.SetCamera(System.Drawing.Point,System.Double,System.Double)">
+            <summary>
+            Задает новые параметры начала координат и масштаба,
+            перерисовывая график.
+            </summary>
+            <param name="Center">Новый центр взгляда в координатах
+            монитора.
+            </param>
+            <param name="ScaleX">Новый масштаб по оси X.</param>
+            <param name="ScaleY">Новый масштаб по оси Y.</param>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.#ctor">
+            <summary>
+            Элемент управления, предназначенный для отображения графиков.
+            </summary>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.SetLegendPanel">
+            <summary>
+            Обновляет состояние панели "Легенда".
+            </summary>
+        </member>
+        <member name="F:OstapenkoAE.Controls.Plot.components">
+            <summary> 
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.Dispose(System.Boolean)">
+            <summary> 
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:OstapenkoAE.Controls.Plot.InitializeComponent">
+            <summary> 
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="T:OstapenkoAE.Controls.PlotItem">
+            <summary>
+            Содержит информацию о графике функции.
+            </summary>
+        </member>
+        <member name="M:OstapenkoAE.Controls.PlotItem.#ctor(System.String,System.Drawing.Color,System.Func{System.Double,System.Double})">
+            <summary>
+            Содержит информацию о графике функции.
+            </summary>
+            <param name="Legend">Название графика.</param>
+            <param name="LineColor">Цвет графика.</param>
+            <param name="Func">Функция y(x).</param>
+            <param name="points">Функция y(x) по точкам.</param>
+        </member>
+        <member name="P:OstapenkoAE.Controls.PlotItem.Legend">
+            <summary>
+            Возвращает название графика.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.PlotItem.LineColor">
+            <summary>
+            Возвращает либо задает цвет графика.
+            </summary>
+        </member>
+        <member name="P:OstapenkoAE.Controls.PlotItem.Function">
+            <summary>
+            Возвращает либо задает функцию y(x).
+            </summary>
+        </member>
+    </members>
+</doc>

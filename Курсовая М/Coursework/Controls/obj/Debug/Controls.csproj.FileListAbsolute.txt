@@ -1,0 +1,133 @@
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+C:\Users\pmstud\Desktop\Остапенко\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+C:\Users\User\Desktop\НПИ\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+F:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+D:\Вычислительная математика\4 лаба\Новая папка (4)\Новая папка (2)\4 лаба (законченная)\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+F:\Вычислительная математика\7 лаба\Новая папка (2)\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+F:\Вычислительная математика\7 лаба\Новая папка (2)\Новая папка\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+F:\Вычислительная математика\8 лаба\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\bin\Debug\Controls.xml
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\bin\Debug\Controls.dll
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\bin\Debug\Controls.pdb
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\Controls.dll
+D:\Вычислительная математика\Курсовая 2\OstapenkoAE\NM\Controls\obj\Debug\Controls.pdb
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\bin\Debug\Controls.xml
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\bin\Debug\Controls.dll
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\bin\Debug\Controls.pdb
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\Controls.dll
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Controls\obj\Debug\Controls.pdb
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\bin\Debug\Controls.xml
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\bin\Debug\Controls.dll
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\bin\Debug\Controls.pdb
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\OstapenkoAE.Controls.Plot.resources
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\Controls.dll
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Controls\obj\Debug\Controls.pdb

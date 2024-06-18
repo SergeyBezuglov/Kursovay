@@ -1,0 +1,29 @@
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.exe.config
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.exe
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.pdb
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.exe
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.pdb
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Controls.dll
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Controls.pdb
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\bin\Debug\Controls.xml
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+D:\Численные методы решения краевых задач\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Controls.dll
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Controls.pdb
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\bin\Debug\Controls.xml
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.csproj.Up2Date
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\bezuglov\Downloads\Курсовая М\Курсовая М\Coursework\Coursework\obj\Debug\Coursework.pdb
